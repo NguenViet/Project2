@@ -17,6 +17,7 @@ int main()
 	}
 	Z = dob + 2 * sin(y) / pow(y, 2) + 5;
 	printf("Z=%f\n", Z);
+	system("pause");
 
 	return 0;
 
